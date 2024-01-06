@@ -6,12 +6,14 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm currently studying and will definitely become a developer in the near future!  </p>
+<p align="left">I'm currently studying and will definitely become a FullStack developer in the near future!  </p>
+<p align="left">I'm ready to collaboration. You can write to me at email kontragent@ukr.net! You will definitely receive a response from me! </p>
+
 
 
 ###
 
-<p align="left"> <br>-  I'm currently learning  React, Java Script, HTML5, CSS3. <br>-  I try to spend my free time with my family, enjoy yoga and keen on astrology. <br>- I love my AirPods and enjoy listening to music.  <br> <b>P.S. If the cusp of the 10th house of my natal chart has a professional activity related to the newest technologies, then we will definitely meet you! </p>
+<p align="left"> <br>- I'm currently learning  React, Java Script, HTML5, CSS3. <br>- I love my AirPods and enjoy listening to music. <br>-  I try to spend my free time with my family, enjoy yoga and keen on astrology.  <br> <b>P.S. If the cusp of the 10th house of my natal chart has a professional activity related to the newest technologies, then we will definitely meet you! </p>
 
 ###
 
