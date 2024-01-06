@@ -7,7 +7,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm currently studying and will definitely become a FullStack developer in the near future!  </p>
-<p align="left">I'm ready to collaboration. You can write to me at email kontragent@ukr.net! You will definitely receive a response from me! </p>
+<p align="left">I'm ready to collaboration. You can write to me at email <a href="mailto:kontragent@ukr.net">kontragent@ukr.net!</a> You will definitely receive a response from me! </p>
 
 
 
