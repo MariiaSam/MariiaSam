@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"> <br>- I'm currently learning  React, Java Script, HTML5, CSS3. <br>- I love my AirPods and enjoy listening to music. <br>-  I try to spend my free time with my family, enjoy yoga and keen on astrology.  <br> <b>P.S. If the cusp of the 10th house of my natal chart has a professional activity related to the newest technologies, then we will definitely meet you! </p>
+<p align="left"> <br>- I'm currently learning  React, Java Script, HTML5, CSS3. <br>- I love my AirPods and enjoy listening to music. <br>-  I enjoy yoga and keen on astrology.  <br> <b>P.S. If the cusp of the 10th house of my natal chart has a professional activity related to the newest technologies, then we will definitely meet you! </p>
 
 ###
 
