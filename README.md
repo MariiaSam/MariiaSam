@@ -7,13 +7,13 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm currently studying and will definitely become a FullStack developer in the near future!  </p>
-<p align="left">I'm ready to collaboration. You can write to me at email <a href="mailto:kontragent@ukr.net">kontragent@ukr.net!</a> You will definitely receive a response from me! </p>
+<p align="left">I'm ready to cooperate. You can write to me at <a href="mailto:kontragent@ukr.net">kontragent@ukr.net!</a> You will definitely get an answer from me! </p>
 
 
 
 ###
 
-<p align="left"> <br>- I'm currently learning  React, Java Script, HTML5, CSS3. <br>- I love my AirPods and enjoy listening to music. <br>-  I enjoy yoga and keen on astrology.  <br> <b>P.S. If the cusp of the 10th house of my natal chart has a professional activity related to the newest technologies, then we will definitely meet you! </p>
+<p align="left"> <br>- I'm currently learning  React, Java Script, HTML5, CSS3. <br>- I love my AirPods and enjoy listening to music. <br>-  I love yoga and keen on astrology.  <br> <b>P.S. If the cusp of the 10th house of my natal chart has a professional activity related to the newest technologies, then we will definitely meet you! </p>
 
 ###
 
