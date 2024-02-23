@@ -7,6 +7,8 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">I'm currently studying and will definitely become a FullStack developer in the near future!  </p>
+<p align="left">I'm now studying Node.js. And, I feel like, I'm in love with it.</p>
+
 <p align="left">I'm ready to cooperate. You can write to me at <a href="mailto:kontragent@ukr.net">kontragent@ukr.net </a> You will definitely get an answer from me! </p>
 
 
