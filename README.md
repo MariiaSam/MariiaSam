@@ -6,7 +6,7 @@
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
-<p align="left">I'm a FullStack developer!   </p>
+<p align="left">Data Scientist   </p>
 
 <p align="left">I'm ready to cooperate. You can write to me at <a href="mailto:kontragent@ukr.net">kontragent@ukr.net </a> You will definitely get an answer from me! </p>
 
@@ -28,8 +28,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
     <img width="12" />
