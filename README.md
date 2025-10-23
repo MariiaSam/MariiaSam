@@ -1,6 +1,6 @@
 
 ###
-<h1 align="center">Hi, everyone! 👋 I'm glad to see you on my profile!</h1>
+<h1 align="center">Hi everyone! 👋 I'm glad to see you on my profile!</h1>
 
 ###
 
@@ -11,8 +11,8 @@ I enjoy working with numbers, uncovering trends, and creating clear, visual insi
 </p>
 
 <p align="left">
-Right now, I'm developing my skills in <strong>Python, SQL, and data visualization tools</strong> such as Tableau and Power BI.  
-Every project I build helps me understand the power of data a little better.
+Right now, I'm developing my skills in <strong>Python, SQL, and data visualization tools</strong> such as <strong>Tableau<strong>.  
+Every step helps me understand the power of data a little better.
 </p>
 
 <p align="left">
