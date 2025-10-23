@@ -30,8 +30,9 @@ you can reach me at <a href="mailto:kontragent@ukr.net">kontragent@ukr.net</a>.
 
 ###
 <div align="left">     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/sql-original.svg" height="40" alt="sql logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="tableau logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
