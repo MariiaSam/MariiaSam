@@ -11,7 +11,7 @@ I enjoy working with numbers, uncovering trends, and creating clear, visual insi
 </p>
 
 <p align="left">
-Right now, I'm developing my skills in <strong>Python, SQL, and data visualization tools</strong> such as <strong>Tableau<strong>.  
+Right now, I'm developing my skills in <strong>SQL, data visualization tools</strong> such as <strong>Tableau<strong>.  
 Every step helps me understand the power of data a little better.
 </p>
 
